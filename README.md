@@ -1,1 +1,1 @@
-crate index.html
+crate redirect-link.html
